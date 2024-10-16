@@ -1,1 +1,2 @@
 I have added some text to this file.
+This line is practice in git operations without help from the course.
